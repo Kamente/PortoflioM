@@ -80,14 +80,7 @@ footer ul li a{
     display: block;
 }
 
-p.social{
-    color: blue;
-    font-size: 30px;
-    padding: 20px;
 
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
-}
 .circular-image{
     border-radius: 60%;
     width: 500px;

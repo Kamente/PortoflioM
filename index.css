@@ -4,6 +4,7 @@
     padding: 0;
     color: white;
     background-image: url(./assets/pure-css-snow-animation.webp);
+
 }
 a:hover{
     background-color: white;
@@ -64,7 +65,7 @@ nav ul li {
   
   nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: white;
   }
 footer ul li{
     display: inline-block;
@@ -73,7 +74,8 @@ footer ul li{
 }
 footer ul li a{
     text-decoration: none;
-    padding: 30px;
+    padding: 50px;
+    padding-top: 70px;
 }
 #contact {
     color: blue;
@@ -96,4 +98,7 @@ footer ul li a{
     right: 10;
     display: inline-block;
 
+}
+.social{
+    padding-top: 70px;
 }
